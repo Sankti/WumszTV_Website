@@ -2,6 +2,7 @@ import logo from './assets/Wumsz_Logo.svg';
 import './App.css';
 
 import { Title } from './components/Title/Title';
+import { Footer } from './components/Footer/Footer';
 
 function App() {
   return (
@@ -11,17 +12,8 @@ function App() {
 
         <Title />
 
-        <h1>
-          Wumsz TV
-        </h1>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Footer />
+
       </header>
     </div>
   );
