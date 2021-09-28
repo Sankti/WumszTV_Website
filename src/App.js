@@ -3,6 +3,7 @@ import './App.css';
 
 import { Title } from './components/Title/Title';
 import { Footer } from './components/Footer/Footer';
+import { SocialMedia } from './components/SocialMedia/SocialMedia';
 
 function App() {
   return (
@@ -11,6 +12,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
 
         <Title />
+
+        <SocialMedia />
 
         <Footer />
 
