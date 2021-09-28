@@ -1,12 +1,17 @@
 import logo from './assets/Wumsz_Logo.svg';
 import './App.css';
 
+import { Title } from './components/Title/Title';
+
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1 className="text-pop-up-top">
+
+        <Title />
+
+        <h1>
           Wumsz TV
         </h1>
         <a
