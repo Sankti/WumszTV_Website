@@ -7,9 +7,9 @@ export function Title() {
             <h1>
                 Wumsz TV
             </h1>
-            <p>
+            <h2>
                 Dom Kumpli z Kanapy na Plaży
-            </p>
+            </h2>
         </div>
     );
 }
