@@ -5,11 +5,12 @@
 
 div {
     background: linear-gradient(
-        to right, 
+        to right,
         hsl(300, 100%, 62%),
         hsl(190, 100%, 60%)
     );
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     text-align: center;
 }
@@ -32,7 +33,6 @@ html {
     grid-gap: 20px;
     margin: 12px 60px;
 }
-
 
 .social-media-button {
     justify-self: center;
