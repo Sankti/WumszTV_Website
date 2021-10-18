@@ -7,7 +7,7 @@ export function SocialMedia() {
         <div classname="social-media-wrapper">
             <SocialIcon className="social-media-button" url="https://facebook.com/" />
             <SocialIcon className="social-media-button" url="https://youtube.com/" />
-            <SocialIcon className="social-media-button" url="https://discord.gg/" />
+            <SocialIcon className="social-media-button" url="https://discord.gg/YyanYZKnxP" />
         </div>
     );
 }
