@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.544b263a.chunk.css",
+    "main.js": "/static/js/main.ccab5279.chunk.js",
+    "main.js.map": "/static/js/main.ccab5279.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.31d3b66b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.31d3b66b.js.map",
+    "static/js/2.ecb35df2.chunk.js": "/static/js/2.ecb35df2.chunk.js",
+    "static/js/2.ecb35df2.chunk.js.map": "/static/js/2.ecb35df2.chunk.js.map",
+    "static/js/3.7e4f7785.chunk.js": "/static/js/3.7e4f7785.chunk.js",
+    "static/js/3.7e4f7785.chunk.js.map": "/static/js/3.7e4f7785.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.544b263a.chunk.css.map": "/static/css/main.544b263a.chunk.css.map",
+    "static/js/2.ecb35df2.chunk.js.LICENSE.txt": "/static/js/2.ecb35df2.chunk.js.LICENSE.txt",
+    "static/media/SocialMedia.css": "/static/media/Amatic-Bold.c53c4ae5.ttf",
+    "static/media/Wumsz_Logo.4882683c.svg": "/static/media/Wumsz_Logo.4882683c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31d3b66b.js",
+    "static/js/2.ecb35df2.chunk.js",
+    "static/css/main.544b263a.chunk.css",
+    "static/js/main.ccab5279.chunk.js"
+  ]
+}
